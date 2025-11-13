@@ -111,7 +111,7 @@ class MainActivity : AppCompatActivity(), TaskAdapter.HandleTaskClick {
     }
 
     override fun onTaskClick(task: Task) {
-        // You can open a detail screen here if you want
+
     }
 
     override fun onEditClick(task: Task) {
